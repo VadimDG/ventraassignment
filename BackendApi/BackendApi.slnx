@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="a0edbfd8-9d1c-47f9-8137-605f66f46d5e" />
+  <Project Path="BackendApi/BackendApi.csproj" />
+  <Project Path="DAL/Intfastructure.csproj" Id="38d4c1ac-fd64-4815-bbd6-c2a1f359775f" />
+  <Project Path="Domain/Domain.csproj" Id="e21d2018-9671-485f-bf1d-0eb304aff4f9" />
+  <Project Path="tests/Application.Services.Calculate.Tests/Application.Services.Calculate.Tests.csproj" />
+</Solution>
